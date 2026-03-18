@@ -1,0 +1,301 @@
+id,brand,model,price,rating,color,storage,battery
+1,Xiaomi,Xiaomi Note,63273,NaN,BLUE,128,five thousand
+2,Vivo,Vivo A1,NaN,five,White,one twenty eight,5000
+3,Vivo,Vivo Ultra,17350,NaN,Green,64,3000
+4,Nokia,Nokia Note,ten thousand,NaN,black,64,NaN
+5,Vivo,Vivo Plus,ten thousand,five,BLUE,256,4000
+6,OnePlus,OnePlus A1,ten thousand,five,black,64,5000
+7,OnePlus,OnePlus Pro,78253,NaN,black,one twenty eight,4000
+8,Oppo,Oppo A1,ten thousand,five,White,64,NaN
+9,Xiaomi,Xiaomi Max,NaN,4.2,Green,NaN,3000
+10,Xiaomi,Xiaomi Note,19451,NaN,BLUE,one twenty eight,NaN
+11,Nokia,Nokia Note,NaN,NaN,White,32,6000
+12,Samsung,Samsung Note,ten thousand,five,Green,256,6000
+13,Vivo,Vivo Pro,ten thousand,3.3,black,NaN,five thousand
+14,Apple,Apple Max,ten thousand,five,Black,one twenty eight,6000
+15,Apple,Apple Lite,NaN,4.1,black,64,five thousand
+16,Apple,Apple Ultra,ten thousand,five,BLUE,256,6000
+17,Realme,Realme A1,NaN,five,Green,256,NaN
+18,OnePlus,OnePlus Note,67394,3.2,black,128,6000
+19,Apple,Apple Lite,NaN,five,White,128,6000
+20,Realme,Realme Lite,54902,NaN,black,256,6000
+21,Apple,Apple Plus,ten thousand,NaN,Green,one twenty eight,4000
+22,Oppo,Oppo Ultra,43695,five,Red,256,five thousand
+23,OnePlus,OnePlus Lite,ten thousand,2.8,Green,256,five thousand
+24,Samsung,Samsung X,NaN,NaN,White,64,4000
+25,Realme,Realme Max,69705,3.5,Green,NaN,6000
+26,Samsung,Samsung Lite,42793,five,black,64,5000
+27,Oppo,Oppo Note,ten thousand,NaN,black,one twenty eight,5000
+28,Xiaomi,Xiaomi Pro,NaN,4.1,Green,32,6000
+29,Nokia,Nokia A1,NaN,five,White,NaN,five thousand
+30,Nokia,Nokia X,ten thousand,NaN,BLUE,32,4000
+31,Xiaomi,Xiaomi Note,NaN,five,Blue,256,five thousand
+32,OnePlus,OnePlus A1,39562,3.3,Red,NaN,3000
+33,Oppo,Oppo Lite,28794,4.7,black,128,5000
+34,Nokia,Nokia A1,49027,NaN,black,64,6000
+35,Vivo,Vivo Ultra,ten thousand,five,Blue,one twenty eight,5000
+36,OnePlus,OnePlus Lite,NaN,NaN,White,one twenty eight,3000
+37,Xiaomi,Xiaomi Max,ten thousand,five,Red,128,3000
+38,Vivo,Vivo Lite,60043,five,Red,NaN,3000
+39,Samsung,Samsung Lite,ten thousand,4.9,White,256,NaN
+40,Apple,Apple A1,ten thousand,five,Black,one twenty eight,five thousand
+41,Samsung,Samsung Plus,ten thousand,NaN,Blue,64,3000
+42,Oppo,Oppo Max,67789,five,Blue,128,5000
+43,Realme,Realme A1,26272,five,Green,128,five thousand
+44,OnePlus,OnePlus Pro,NaN,NaN,BLUE,NaN,NaN
+45,Nokia,Nokia Max,ten thousand,4.3,Blue,64,NaN
+46,OnePlus,OnePlus Lite,ten thousand,five,White,32,5000
+47,OnePlus,OnePlus Pro,ten thousand,3.8,black,NaN,five thousand
+48,Nokia,Nokia Lite,63041,five,BLUE,one twenty eight,3000
+49,Realme,Realme X,76990,4.8,White,NaN,6000
+50,Samsung,Samsung A1,NaN,NaN,Blue,NaN,3000
+51,Xiaomi,Xiaomi X,34763,4.2,Red,256,3000
+52,Samsung,Samsung X,NaN,five,Blue,64,five thousand
+53,Nokia,Nokia Ultra,31527,4.9,black,256,4000
+54,Apple,Apple Max,ten thousand,4.0,Black,128,6000
+55,Apple,Apple X,58994,five,Black,256,3000
+56,OnePlus,OnePlus Ultra,70129,five,Black,256,3000
+57,OnePlus,OnePlus Lite,ten thousand,NaN,Blue,256,5000
+58,Xiaomi,Xiaomi A1,53549,3.8,Blue,one twenty eight,NaN
+59,Nokia,Nokia Note,NaN,five,White,one twenty eight,6000
+60,Xiaomi,Xiaomi Note,35743,3.9,Green,256,5000
+61,Vivo,Vivo Ultra,37744,NaN,Green,256,6000
+62,Oppo,Oppo Note,ten thousand,NaN,White,64,3000
+63,Apple,Apple Max,ten thousand,five,BLUE,one twenty eight,five thousand
+64,Vivo,Vivo Plus,NaN,NaN,Black,one twenty eight,NaN
+65,OnePlus,OnePlus Pro,ten thousand,NaN,White,256,5000
+66,Xiaomi,Xiaomi Max,ten thousand,4.6,Black,32,NaN
+67,Vivo,Vivo A1,73842,2.5,Green,one twenty eight,5000
+68,Oppo,Oppo Pro,NaN,five,black,NaN,5000
+69,Nokia,Nokia A1,NaN,NaN,Blue,256,5000
+70,Oppo,Oppo Plus,36121,five,Green,32,five thousand
+71,Samsung,Samsung Ultra,ten thousand,five,black,64,NaN
+72,Xiaomi,Xiaomi X,ten thousand,five,White,256,6000
+73,Vivo,Vivo A1,NaN,4.0,Blue,256,3000
+74,Nokia,Nokia Ultra,ten thousand,five,Green,128,NaN
+75,Realme,Realme Max,NaN,NaN,Black,128,5000
+76,Nokia,Nokia Lite,30519,five,BLUE,64,4000
+77,Nokia,Nokia Max,ten thousand,five,Green,64,5000
+78,Apple,Apple Ultra,ten thousand,NaN,Blue,256,6000
+79,Xiaomi,Xiaomi Max,NaN,five,Blue,32,3000
+80,Apple,Apple Ultra,ten thousand,3.9,Blue,one twenty eight,5000
+81,Oppo,Oppo Max,NaN,five,BLUE,32,3000
+82,Apple,Apple Lite,NaN,3.6,Blue,256,6000
+83,Vivo,Vivo Max,ten thousand,five,BLUE,one twenty eight,6000
+84,Oppo,Oppo Pro,ten thousand,five,Blue,NaN,3000
+85,Samsung,Samsung Plus,NaN,NaN,black,256,5000
+86,OnePlus,OnePlus Plus,50035,3.7,White,256,NaN
+87,Apple,Apple Ultra,NaN,NaN,Red,128,6000
+88,Nokia,Nokia Plus,NaN,five,White,NaN,NaN
+89,Oppo,Oppo Ultra,33637,NaN,White,256,3000
+90,Oppo,Oppo A1,ten thousand,NaN,BLUE,64,five thousand
+91,OnePlus,OnePlus Note,NaN,five,White,128,five thousand
+92,Vivo,Vivo Max,50689,five,White,one twenty eight,five thousand
+93,OnePlus,OnePlus Max,NaN,NaN,White,32,4000
+94,Realme,Realme Pro,37731,five,black,NaN,4000
+95,Samsung,Samsung X,ten thousand,five,BLUE,one twenty eight,NaN
+96,Oppo,Oppo Ultra,ten thousand,3.5,Green,32,five thousand
+97,Samsung,Samsung Max,NaN,five,White,one twenty eight,3000
+98,Realme,Realme A1,ten thousand,five,Red,NaN,five thousand
+99,OnePlus,OnePlus Note,42104,4.1,Green,256,4000
+100,Vivo,Vivo X,ten thousand,NaN,Red,one twenty eight,5000
+101,OnePlus,OnePlus Ultra,64907,5.0,Blue,128,five thousand
+102,Realme,Realme Note,16544,five,White,one twenty eight,NaN
+103,Apple,Apple Pro,6514,five,Blue,128,4000
+104,Oppo,Oppo Max,ten thousand,3.1,Red,NaN,5000
+105,Xiaomi,Xiaomi A1,NaN,2.6,Green,128,3000
+106,Vivo,Vivo Plus,18376,five,Green,128,6000
+107,Nokia,Nokia Max,ten thousand,4.3,black,NaN,5000
+108,Nokia,Nokia X,ten thousand,NaN,Red,one twenty eight,6000
+109,Samsung,Samsung Lite,49273,five,black,one twenty eight,five thousand
+110,Nokia,Nokia Pro,ten thousand,4.4,White,one twenty eight,NaN
+111,Xiaomi,Xiaomi Note,NaN,4.2,Blue,128,five thousand
+112,Vivo,Vivo Plus,ten thousand,five,BLUE,128,3000
+113,Samsung,Samsung Lite,ten thousand,five,Blue,32,5000
+114,OnePlus,OnePlus Ultra,79887,five,Green,one twenty eight,five thousand
+115,OnePlus,OnePlus Lite,27165,NaN,Blue,one twenty eight,NaN
+116,OnePlus,OnePlus Pro,ten thousand,3.5,Red,32,five thousand
+117,Apple,Apple Ultra,NaN,4.2,Red,64,five thousand
+118,Xiaomi,Xiaomi Max,ten thousand,4.8,black,64,4000
+119,Vivo,Vivo A1,ten thousand,2.6,Black,one twenty eight,4000
+120,Realme,Realme Max,58466,3.0,BLUE,NaN,3000
+121,Oppo,Oppo Lite,57115,five,Green,32,NaN
+122,Nokia,Nokia Note,ten thousand,4.7,Black,128,6000
+123,Oppo,Oppo A1,ten thousand,4.9,BLUE,32,6000
+124,Samsung,Samsung Plus,ten thousand,NaN,Blue,64,five thousand
+125,Xiaomi,Xiaomi Max,NaN,NaN,Black,32,3000
+126,Oppo,Oppo Note,62089,NaN,Red,one twenty eight,NaN
+127,Realme,Realme A1,64913,NaN,Red,128,NaN
+128,OnePlus,OnePlus Max,NaN,five,Black,NaN,NaN
+129,Oppo,Oppo Lite,NaN,NaN,White,128,6000
+130,Samsung,Samsung Ultra,22156,4.6,Green,64,five thousand
+131,Vivo,Vivo X,NaN,NaN,Green,NaN,5000
+132,Xiaomi,Xiaomi A1,NaN,five,White,one twenty eight,NaN
+133,Vivo,Vivo Lite,70953,five,Red,128,NaN
+134,Xiaomi,Xiaomi Note,NaN,2.7,White,32,4000
+135,Nokia,Nokia Max,NaN,NaN,Black,NaN,6000
+136,Oppo,Oppo Pro,49262,five,Black,64,4000
+137,Samsung,Samsung X,62585,3.6,White,one twenty eight,4000
+138,OnePlus,OnePlus A1,33356,five,Black,32,5000
+139,Realme,Realme Ultra,NaN,five,Green,256,3000
+140,Apple,Apple X,NaN,NaN,black,32,4000
+141,Xiaomi,Xiaomi A1,ten thousand,five,Red,NaN,3000
+142,Oppo,Oppo Ultra,NaN,3.3,White,64,five thousand
+143,Vivo,Vivo Max,8125,five,White,256,NaN
+144,Oppo,Oppo Max,41957,NaN,BLUE,64,5000
+145,Oppo,Oppo Plus,NaN,NaN,BLUE,32,NaN
+146,Realme,Realme Plus,27304,NaN,Blue,64,3000
+147,OnePlus,OnePlus X,40631,five,Blue,64,5000
+148,Samsung,Samsung Lite,NaN,five,Black,256,5000
+149,Apple,Apple Max,NaN,NaN,White,NaN,6000
+150,Oppo,Oppo X,48075,NaN,White,NaN,NaN
+151,Nokia,Nokia Lite,ten thousand,NaN,Blue,256,3000
+152,Nokia,Nokia Ultra,ten thousand,NaN,Blue,32,NaN
+153,Nokia,Nokia Ultra,7899,2.8,black,NaN,3000
+154,Oppo,Oppo A1,ten thousand,2.6,Blue,64,3000
+155,Apple,Apple Pro,NaN,2.6,Blue,256,5000
+156,Apple,Apple Max,56179,five,Black,one twenty eight,4000
+157,Samsung,Samsung Pro,NaN,five,BLUE,32,five thousand
+158,OnePlus,OnePlus A1,ten thousand,five,Red,32,4000
+159,Apple,Apple Lite,75083,4.6,Black,one twenty eight,4000
+160,Oppo,Oppo Pro,53221,five,White,32,4000
+161,Vivo,Vivo Lite,NaN,NaN,Red,128,4000
+162,OnePlus,OnePlus Lite,ten thousand,five,BLUE,64,NaN
+163,Samsung,Samsung Max,53730,4.4,Black,32,4000
+164,Realme,Realme Max,ten thousand,NaN,Red,32,five thousand
+165,Xiaomi,Xiaomi Ultra,42729,2.5,BLUE,256,5000
+166,Realme,Realme Pro,ten thousand,five,BLUE,256,NaN
+167,Samsung,Samsung Note,ten thousand,NaN,Black,128,4000
+168,Nokia,Nokia Plus,NaN,NaN,BLUE,32,NaN
+169,OnePlus,OnePlus Note,NaN,3.8,Red,128,3000
+170,Nokia,Nokia Ultra,ten thousand,4.2,BLUE,128,five thousand
+171,Oppo,Oppo Max,NaN,five,Black,32,4000
+172,OnePlus,OnePlus Max,NaN,five,black,NaN,6000
+173,Realme,Realme A1,NaN,2.9,black,32,5000
+174,Vivo,Vivo Max,ten thousand,4.0,Green,64,five thousand
+175,Xiaomi,Xiaomi Lite,17178,NaN,Green,one twenty eight,five thousand
+176,Samsung,Samsung Ultra,51488,five,Red,32,4000
+177,Oppo,Oppo Pro,ten thousand,five,Black,128,NaN
+178,Oppo,Oppo Max,ten thousand,five,Black,128,4000
+179,Oppo,Oppo Pro,68560,NaN,Green,256,5000
+180,OnePlus,OnePlus A1,ten thousand,five,Blue,one twenty eight,NaN
+181,Xiaomi,Xiaomi X,NaN,4.4,BLUE,32,3000
+182,Nokia,Nokia Lite,51897,NaN,BLUE,one twenty eight,4000
+183,OnePlus,OnePlus A1,NaN,five,BLUE,64,4000
+184,Apple,Apple A1,NaN,2.9,BLUE,128,5000
+185,Vivo,Vivo X,54418,five,Red,128,4000
+186,Samsung,Samsung Ultra,ten thousand,4.6,BLUE,128,6000
+187,OnePlus,OnePlus Pro,ten thousand,five,Blue,NaN,3000
+188,Realme,Realme Note,ten thousand,five,Green,NaN,3000
+189,Oppo,Oppo Note,NaN,4.0,Blue,NaN,five thousand
+190,Nokia,Nokia Plus,NaN,five,black,32,3000
+191,Oppo,Oppo Max,ten thousand,2.8,Green,128,6000
+192,Samsung,Samsung Note,ten thousand,4.5,Blue,NaN,3000
+193,Nokia,Nokia Note,ten thousand,five,Black,32,3000
+194,Samsung,Samsung Plus,58496,five,Blue,256,4000
+195,Vivo,Vivo Max,NaN,five,black,one twenty eight,6000
+196,Nokia,Nokia Lite,19575,five,Black,128,5000
+197,OnePlus,OnePlus X,ten thousand,NaN,White,256,4000
+198,Nokia,Nokia Note,NaN,3.1,black,one twenty eight,6000
+199,Samsung,Samsung Ultra,NaN,NaN,Black,NaN,3000
+200,Nokia,Nokia Max,ten thousand,five,Red,64,5000
+201,Nokia,Nokia Pro,ten thousand,2.8,black,one twenty eight,6000
+202,Samsung,Samsung A1,39934,NaN,Blue,64,5000
+203,Samsung,Samsung Pro,38078,3.0,BLUE,128,5000
+204,OnePlus,OnePlus X,NaN,3.8,Red,64,3000
+205,Nokia,Nokia Max,NaN,3.0,Blue,one twenty eight,4000
+206,Xiaomi,Xiaomi Note,NaN,4.8,Blue,256,4000
+207,Vivo,Vivo Plus,NaN,4.8,Green,64,4000
+208,OnePlus,OnePlus A1,ten thousand,five,Green,256,4000
+209,Samsung,Samsung Max,48864,5.0,Blue,NaN,5000
+210,Xiaomi,Xiaomi Lite,NaN,3.8,Blue,32,NaN
+211,Xiaomi,Xiaomi Ultra,ten thousand,NaN,Black,64,five thousand
+212,Realme,Realme Plus,NaN,NaN,Black,256,NaN
+213,Nokia,Nokia Ultra,NaN,five,White,256,3000
+214,Realme,Realme Ultra,NaN,five,Black,256,3000
+215,Xiaomi,Xiaomi Plus,69477,five,BLUE,64,five thousand
+216,Apple,Apple Max,NaN,NaN,White,128,6000
+217,Nokia,Nokia Ultra,51355,NaN,Green,256,3000
+218,OnePlus,OnePlus Ultra,NaN,3.1,White,one twenty eight,6000
+219,Xiaomi,Xiaomi Note,NaN,NaN,black,32,6000
+220,Realme,Realme A1,ten thousand,3.2,White,NaN,3000
+221,Xiaomi,Xiaomi A1,ten thousand,4.5,Blue,32,five thousand
+222,Oppo,Oppo Plus,NaN,NaN,BLUE,128,4000
+223,Xiaomi,Xiaomi X,14007,NaN,White,32,NaN
+224,Realme,Realme Lite,20093,3.8,black,one twenty eight,3000
+225,Nokia,Nokia X,ten thousand,NaN,BLUE,32,4000
+226,Vivo,Vivo Note,68652,five,Green,NaN,4000
+227,Apple,Apple Ultra,ten thousand,five,BLUE,64,6000
+228,Oppo,Oppo A1,66883,NaN,Black,64,6000
+229,Oppo,Oppo Pro,23646,five,Black,128,5000
+230,Apple,Apple X,NaN,five,Green,256,five thousand
+231,Xiaomi,Xiaomi Note,ten thousand,NaN,Blue,128,NaN
+232,Xiaomi,Xiaomi Max,61326,five,BLUE,256,3000
+233,Realme,Realme Plus,NaN,five,Blue,256,6000
+234,Realme,Realme Lite,ten thousand,4.3,White,64,NaN
+235,Vivo,Vivo Plus,61322,five,White,one twenty eight,NaN
+236,Oppo,Oppo Plus,ten thousand,five,Black,128,NaN
+237,OnePlus,OnePlus Pro,NaN,five,BLUE,32,3000
+238,Xiaomi,Xiaomi Lite,NaN,NaN,Blue,one twenty eight,6000
+239,Apple,Apple Plus,NaN,NaN,Green,64,6000
+240,Xiaomi,Xiaomi Pro,ten thousand,NaN,White,64,five thousand
+241,Realme,Realme Max,70656,five,Red,128,NaN
+242,OnePlus,OnePlus Pro,ten thousand,3.8,BLUE,256,3000
+243,Samsung,Samsung Pro,ten thousand,five,White,NaN,4000
+244,Realme,Realme Ultra,ten thousand,NaN,BLUE,one twenty eight,NaN
+245,Xiaomi,Xiaomi Ultra,NaN,five,Black,256,6000
+246,Apple,Apple Lite,NaN,4.8,Green,NaN,4000
+247,Vivo,Vivo Note,ten thousand,five,White,256,4000
+248,Xiaomi,Xiaomi Lite,NaN,2.9,Red,128,five thousand
+249,OnePlus,OnePlus A1,NaN,NaN,White,one twenty eight,five thousand
+250,Samsung,Samsung Lite,NaN,NaN,White,128,5000
+251,Samsung,Samsung Plus,77051,NaN,White,256,3000
+252,Apple,Apple Pro,NaN,2.7,White,32,5000
+253,Apple,Apple A1,ten thousand,five,Green,256,NaN
+254,Oppo,Oppo A1,74798,4.9,black,256,6000
+255,Xiaomi,Xiaomi Lite,NaN,3.9,black,32,five thousand
+256,Samsung,Samsung Ultra,ten thousand,five,Red,64,4000
+257,Apple,Apple Ultra,5096,five,Blue,one twenty eight,6000
+258,Realme,Realme Max,NaN,2.8,BLUE,64,3000
+259,Nokia,Nokia Pro,ten thousand,2.5,BLUE,32,NaN
+260,Realme,Realme Ultra,NaN,NaN,Blue,256,4000
+261,Samsung,Samsung Ultra,ten thousand,five,BLUE,64,4000
+262,OnePlus,OnePlus Plus,10538,five,Red,128,5000
+263,Xiaomi,Xiaomi X,ten thousand,NaN,BLUE,128,five thousand
+264,Xiaomi,Xiaomi Lite,15495,NaN,BLUE,32,5000
+265,Oppo,Oppo X,NaN,NaN,White,32,4000
+266,Samsung,Samsung A1,ten thousand,five,Green,128,5000
+267,Vivo,Vivo X,NaN,five,BLUE,256,4000
+268,Apple,Apple Note,NaN,3.9,black,NaN,5000
+269,Apple,Apple Max,NaN,4.4,Red,32,five thousand
+270,Realme,Realme Plus,NaN,five,black,128,five thousand
+271,Realme,Realme A1,NaN,five,Blue,64,3000
+272,Nokia,Nokia Max,ten thousand,five,White,32,3000
+273,Samsung,Samsung X,50040,3.5,Red,64,5000
+274,OnePlus,OnePlus X,NaN,4.5,Blue,256,NaN
+275,Xiaomi,Xiaomi Note,ten thousand,five,black,one twenty eight,3000
+276,Nokia,Nokia Note,61250,4.5,Red,32,NaN
+277,OnePlus,OnePlus Note,ten thousand,4.8,Green,NaN,4000
+278,Xiaomi,Xiaomi Plus,39672,NaN,White,256,3000
+279,Vivo,Vivo Max,NaN,five,White,64,6000
+280,Realme,Realme Note,NaN,NaN,White,32,4000
+281,Samsung,Samsung Ultra,54388,NaN,Blue,256,5000
+282,Realme,Realme Ultra,NaN,five,White,64,5000
+283,Realme,Realme Lite,ten thousand,4.9,Green,32,3000
+284,Xiaomi,Xiaomi Pro,73056,2.5,Red,one twenty eight,3000
+285,Apple,Apple Ultra,51513,five,Green,64,five thousand
+286,Oppo,Oppo A1,NaN,NaN,Black,one twenty eight,NaN
+287,Xiaomi,Xiaomi Lite,78929,five,White,64,6000
+288,OnePlus,OnePlus Ultra,34759,NaN,White,one twenty eight,5000
+289,Vivo,Vivo X,47083,NaN,BLUE,128,5000
+290,Apple,Apple X,NaN,five,Red,64,5000
+291,Xiaomi,Xiaomi X,NaN,4.7,White,256,5000
+292,Xiaomi,Xiaomi Note,ten thousand,five,Blue,128,6000
+293,Vivo,Vivo A1,24255,NaN,Green,32,3000
+294,Nokia,Nokia Ultra,NaN,NaN,Green,32,4000
+295,Oppo,Oppo Note,ten thousand,NaN,Red,128,6000
+296,Oppo,Oppo Plus,NaN,2.5,White,one twenty eight,3000
+297,Xiaomi,Xiaomi X,54131,NaN,black,128,6000
+298,Xiaomi,Xiaomi A1,ten thousand,3.5,Blue,one twenty eight,3000
+299,Samsung,Samsung Note,75918,NaN,Green,one twenty eight,6000
+300,Vivo,Vivo Lite,26555,NaN,Red,32,3000
